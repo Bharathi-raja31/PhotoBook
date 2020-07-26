@@ -23,14 +23,15 @@ const AboutApp = () => (
             <ul>
               <li>Api call using fetch</li>
               <li>Smart &amp; Dumb Component designs</li>
+              <li>DRUD Operation Allowed</li>
+              <li>Data Table Component Used</li>
               <li>Pagination for user list</li>
               <li>View/Update profile information</li>
               <li>Bootstrap UI Framework</li>
               <li>Router with 404 / 500 error pages</li>
-              <li>No class components used</li>
             </ul>
             <h2 id="demo-link">Demo Link</h2>
-            <p><a href="https://dreamy-turing-79842a.netlify.app/">https://dreamy-turing-79842a.netlify.app/</a></p>
+            <p><a href="https://nifty-brown-400ac6.netlify.app/">https://nifty-brown-400ac6.netlify.app/</a></p>
             <h2 id="instructions">Instructions</h2>
             <pre><code>npm install
 

@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Photo Book | Photography management using React Hooks
 - Api call using fetch
+- DRUD Operation Allowed
 - Data Table Component Used
 - Smart & Dumb Component designs
 - Pagination for user list
@@ -11,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo Link
 
-https://dreamy-turing-79842a.netlify.app/
+https://nifty-brown-400ac6.netlify.app/
 
 ## Instructions
 ```
